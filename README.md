@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Blockchain Technology**
 
-- 💬 Ask me about **react, node.js, mongoDB, Python**
+- 💬 Ask me about **react, node.js, mongoDB, C++, Data Structures**
 
 - 📫 How to reach me **deekshalakhotia19@gmail.com**
 
